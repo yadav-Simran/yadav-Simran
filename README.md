@@ -1,4 +1,4 @@
-<img src="https://www.sternekessler.com/sites/default/files/2018-11/Artificial%20Intelligence%20-%20child%20page%20%28website%20version%29.jpg">
+<!--  <img src="https://www.sternekessler.com/sites/default/files/2018-11/Artificial%20Intelligence%20-%20child%20page%20%28website%20version%29.jpg"> -->
 
 <h1 align="center">Hi 👋, I'm Simran Yadav</h1>
 <h3  align ="center">I am a passionate developer specializing in AI, ML, and deep learning. </h3>
