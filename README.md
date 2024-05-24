@@ -6,7 +6,7 @@
  
 - 🌱 I’m currently learning : **Python, Machine Learning, NLP**
 
-- 💬 Ask me about : <div>**ML </div> <div>NLP </div> <div>Deep Learning**</div>
+- 💬 Ask me about : <div>**Machine Learning </div> <div>NLP </div> <div> LLM</div> <div>Deep Learning**</div>
 
 - 📫 You can reach me at : **yadavsimran281198@gmail.com**
 
